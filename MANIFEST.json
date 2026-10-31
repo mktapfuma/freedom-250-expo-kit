@@ -1,0 +1,114 @@
+{
+  "title": "Freedom 250 Expo \u2014 public print and field kit",
+  "generated_at": "2026-10-31T04:01:27Z",
+  "generated_by": "Chiedza Marufu (CMO lane)",
+  "event": "Freedom 250 Innovation & Enterprise Expo, Sat 31 Oct 2026 09:00-13:00, Zimbabwe German Society, 51 Lawson Avenue, Milton Park, Harare",
+  "publication_status": "PENDING \u2014 not yet published to any public URL; publication delegated to the platform lane",
+  "internal_exclusions": [
+    "02_SPONSORSHIP_PACK_and_LEAVE_BEHIND_CARD.md (not published)",
+    "04_SIGN_OFF_PIN_R8_byte_strings.md (not published)",
+    "Modern Xpress proposal/quote/deck (client-confidential, not published)"
+  ],
+  "files": [
+    {
+      "file": "00_START_HERE.md",
+      "bytes": 2715,
+      "sha256": "ea7dd70b7683b86d8c98adf730762638ffcf99edba7cb8d2b80b97e267206902"
+    },
+    {
+      "file": "01_BOOTH_BRIEF_R6.md",
+      "bytes": 18533,
+      "sha256": "a4bcaae19aad7644746f118f960ed9c8d2580fc1b5b9d23fce2684c55dd0e650"
+    },
+    {
+      "file": "02_PRINT_ORDER_LOCAL_SAMEDAY.md",
+      "bytes": 11205,
+      "sha256": "173a06d1f6303ea9e1a9a32cbe54702d8a9b3273eeb061454f3d40f04b4c539a"
+    },
+    {
+      "file": "05_LEAD_CAPTURE_TEMPLATE.csv",
+      "bytes": 167,
+      "sha256": "0ad40c0a65179b9a0d10ffd2ebcf05720e03169bf67ea25c78b285dccdb08238"
+    },
+    {
+      "file": "06_QR_SITE.png",
+      "bytes": 1987,
+      "sha256": "e88d52ce69b8cc754d03722ff96208a47b1dc80523109bd9263237c0b72d293d"
+    },
+    {
+      "file": "07_QR_BLOG.png",
+      "bytes": 1968,
+      "sha256": "d3ddbb80ff9e6aaea89f9e9292284819cba1f9dbf2bfa93468f2629fc9f0a27b"
+    },
+    {
+      "file": "08_QR_LINKEDIN.png",
+      "bytes": 1999,
+      "sha256": "81496e04fc9692fe7ef96820211fa19b22f27c8843f77a54d9941609241ef7c8"
+    },
+    {
+      "file": "09_ARTWORK_VERIFY_RECEIPT_20261030T050317Z.json",
+      "bytes": 4713,
+      "sha256": "39f8716434beac52b06cdaf92d0653e63bb5fc5ba812a289516bfc886905e77e"
+    },
+    {
+      "file": "A5_FLYER_BACK_148x210mm.pdf",
+      "bytes": 234364,
+      "sha256": "a8b6228a56c6da5850e3ca778609e891de2fb7426e06aa84f8514f46ae0e4c63"
+    },
+    {
+      "file": "A5_FLYER_BACK_148x210mm.png",
+      "bytes": 199047,
+      "sha256": "4b069c6aea65745e1726db01bd899362c9931f7a3231aeb615c4e6a45be73582"
+    },
+    {
+      "file": "A5_FLYER_FRONT_148x210mm.pdf",
+      "bytes": 270569,
+      "sha256": "17dd092140b71543e2b86c1979ec7df05c6f98d31a3df55c4fd3d938628b0cfe"
+    },
+    {
+      "file": "A5_FLYER_FRONT_148x210mm.png",
+      "bytes": 231305,
+      "sha256": "e1408fa56dac9f3c27082086c5f0dc5a0518f39db2839a296f46e456428da1ff"
+    },
+    {
+      "file": "A6_CARD_105x148mm.pdf",
+      "bytes": 177711,
+      "sha256": "0145c60d5a050479e5ba26f6d1cdf2996d925170efa2dd9669e040687cf26be1"
+    },
+    {
+      "file": "A6_CARD_105x148mm.png",
+      "bytes": 169498,
+      "sha256": "ea64cee510224e17cb756aec3133deafa1738b056124002a6777afd16c380d0a"
+    },
+    {
+      "file": "BACKDROP_2x3m.pdf",
+      "bytes": 4265047,
+      "sha256": "f12da6f87cdb7b08ebc16ed9be1965c92cfd2d963b9041799f3ca4d284ce7bce"
+    },
+    {
+      "file": "BACKDROP_2x3m.png",
+      "bytes": 1607607,
+      "sha256": "079b1165bdd624833f3c5914a41e89da4dca133c81ae5f3190ff11d38d0e8b1a"
+    },
+    {
+      "file": "PULLUP_850x2000mm.pdf",
+      "bytes": 1524064,
+      "sha256": "41fcda835e5060146af644969a91fbd9a329a505cebf9f74caeb60b7c93a6b87"
+    },
+    {
+      "file": "PULLUP_850x2000mm.png",
+      "bytes": 792483,
+      "sha256": "6ee6fbe3c0d17199c0161f3159be93a77ae191616a5a445b9401aa60b9e92f17"
+    },
+    {
+      "file": "TABLE_BANNER_1x2m.pdf",
+      "bytes": 1804343,
+      "sha256": "8a3e1d08d3eaaa9658da7f8925327a49888ed53f1a227149ed0407f1a9e27de3"
+    },
+    {
+      "file": "TABLE_BANNER_1x2m.png",
+      "bytes": 913626,
+      "sha256": "174f9d52f218d434ce8e8e5b03e5e9aece650f0b0c5fa72ac680a83929fceb57"
+    }
+  ]
+}

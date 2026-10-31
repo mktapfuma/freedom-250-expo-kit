@@ -1,0 +1,143 @@
+{
+  "instrument": "TOOLS/cmo_expo_artwork_verify.py",
+  "version": "v1.0",
+  "owner": "Chiedza Marufu (CMO lane)",
+  "measured_at": "2026-10-30T05:03:17Z",
+  "directory": "OUTBOX/FREEDOM_250_EXPO_ARTWORK_2026_10_30",
+  "artefacts": [
+    {
+      "file": "A5_FLYER_FRONT_148x210mm.png",
+      "bytes_on_disk": 231305,
+      "sha256_on_disk": "e1408fa56dac9f3c27082086c5f0dc5a0518f39db2839a296f46e456428da1ff",
+      "digest_matches_manifest": true,
+      "qr_found": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "qr_error": null,
+      "qr_all_expected": true,
+      "qr_expected": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "verdict": "VERIFIED"
+    },
+    {
+      "file": "A5_FLYER_BACK_148x210mm.png",
+      "bytes_on_disk": 199047,
+      "sha256_on_disk": "4b069c6aea65745e1726db01bd899362c9931f7a3231aeb615c4e6a45be73582",
+      "digest_matches_manifest": true,
+      "qr_found": [],
+      "qr_error": null,
+      "qr_all_expected": true,
+      "qr_expected": [],
+      "verdict": "VERIFIED"
+    },
+    {
+      "file": "A6_CARD_105x148mm.png",
+      "bytes_on_disk": 169498,
+      "sha256_on_disk": "ea64cee510224e17cb756aec3133deafa1738b056124002a6777afd16c380d0a",
+      "digest_matches_manifest": true,
+      "qr_found": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "qr_error": null,
+      "qr_all_expected": true,
+      "qr_expected": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "verdict": "VERIFIED"
+    },
+    {
+      "file": "TABLE_BANNER_1x2m.png",
+      "bytes_on_disk": 913626,
+      "sha256_on_disk": "174f9d52f218d434ce8e8e5b03e5e9aece650f0b0c5fa72ac680a83929fceb57",
+      "digest_matches_manifest": true,
+      "qr_found": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "qr_error": null,
+      "qr_all_expected": true,
+      "qr_expected": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "verdict": "VERIFIED"
+    },
+    {
+      "file": "BACKDROP_2x3m.png",
+      "bytes_on_disk": 1607607,
+      "sha256_on_disk": "079b1165bdd624833f3c5914a41e89da4dca133c81ae5f3190ff11d38d0e8b1a",
+      "digest_matches_manifest": true,
+      "qr_found": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "qr_error": null,
+      "qr_all_expected": true,
+      "qr_expected": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "verdict": "VERIFIED"
+    },
+    {
+      "file": "PULLUP_850x2000mm.png",
+      "bytes_on_disk": 792483,
+      "sha256_on_disk": "6ee6fbe3c0d17199c0161f3159be93a77ae191616a5a445b9401aa60b9e92f17",
+      "digest_matches_manifest": true,
+      "qr_found": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "qr_error": null,
+      "qr_all_expected": true,
+      "qr_expected": [
+        "https://blog.mosesktapfuma.online/",
+        "https://mosesktapfuma.online/",
+        "https://www.linkedin.com/in/mosestapfuma/"
+      ],
+      "verdict": "VERIFIED"
+    }
+  ],
+  "destinations": [
+    {
+      "url": "https://blog.mosesktapfuma.online/",
+      "status": 200,
+      "bytes": 59369,
+      "sha256": "5981d164894fb8460c5bb49e37af1dad401987a4c2865efcc236c4cbaf03809d",
+      "final_url": "https://blog.mosesktapfuma.online/",
+      "error": null
+    },
+    {
+      "url": "https://mosesktapfuma.online/",
+      "status": 200,
+      "bytes": 9198,
+      "sha256": "a0374422be92e1ecda1374049c8340be55add9f704444e9fe34d1a7f44127553",
+      "final_url": "https://mosesktapfuma.online/",
+      "error": null
+    },
+    {
+      "url": "https://www.linkedin.com/in/mosestapfuma/",
+      "status": 200,
+      "bytes": 758072,
+      "sha256": "503333c1895209ed5daa6122fbfb570ce8230a439424258670425b60210f95f5",
+      "final_url": "https://www.linkedin.com/in/mosestapfuma",
+      "error": null
+    }
+  ],
+  "qr_decoder": "OpenCV QRCodeDetector, decodeAndDecodeMulti on the rendered bytes",
+  "verdict": "VERIFIED"
+}
