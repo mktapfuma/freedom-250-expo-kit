@@ -1,9 +1,33 @@
 {
-  "title": "Freedom 250 Expo \u2014 public print and field kit",
-  "generated_at": "2026-10-31T04:01:27Z",
+  "title": "Freedom 250 Expo - public print and field kit",
+  "generated_at": "2026-10-31T04:31:00Z",
   "generated_by": "Chiedza Marufu (CMO lane)",
+  "generator": "TOOLS/cmo_expo_kit_build_v1.py v1.0",
   "event": "Freedom 250 Innovation & Enterprise Expo, Sat 31 Oct 2026 09:00-13:00, Zimbabwe German Society, 51 Lawson Avenue, Milton Park, Harare",
-  "publication_status": "PENDING \u2014 not yet published to any public URL; publication delegated to the platform lane",
+  "publication_status": "PUBLIC - served from https://mktapfuma.github.io/freedom-250-expo-kit/",
+  "contact_block": {
+    "authority": "Founder DM event 7628175d9f7b1b7e82150864eec0549fdebf87e78604d03f19ce46aeaceaad42 (2026-10-31T04:23:03Z)",
+    "website": "mosesktapfuma.online",
+    "email": "info@ktasolutions.co.za",
+    "south_africa": "+27 69 046 8561",
+    "zimbabwe": "+263 78 588 3422",
+    "zimbabwe_contact": "Angeline"
+  },
+  "brand": {
+    "kta_logo_source": "OUTBOX/FREEDOM_250_EXPO_LOGO_PACK_2026_10_31/KTA_logo_horizontal_colour.png",
+    "kta_logo_served_as": "KTA_LOGO.png",
+    "kta_logo_sha256": "cf2bf3fcdd62b7c1cafde085a7cc312791b017972bc1cdb701e2778665e29452",
+    "note": "the KTA Solutions logo is the Founder's own file, read from disk unmodified and printed unmodified"
+  },
+  "supersedes": {
+    "manifest_generation": "2026-10-31T04:01:27Z",
+    "manifest_sha256": "7f81427a54703643e7f7a1ce5db916893ef1684447332b91f26e67669fb83f30",
+    "zip_name": "FREEDOM_250_EXPO_PUBLIC_HANDOFF_2026_10_31.zip",
+    "zip_bytes": 5148571,
+    "zip_sha256": "b65886175eeb1c97a6bd0b382aa55cd3da38a2f5450f9b3c9eac8fd55301f60f",
+    "index_bytes": 6539,
+    "index_sha256": "4dd761d830b2b792fa6a8ce8877b96a43357ac7fba3caae0092902e37da7b6b0"
+  },
   "internal_exclusions": [
     "02_SPONSORSHIP_PACK_and_LEAVE_BEHIND_CARD.md (not published)",
     "04_SIGN_OFF_PIN_R8_byte_strings.md (not published)",
@@ -46,69 +70,79 @@
       "sha256": "81496e04fc9692fe7ef96820211fa19b22f27c8843f77a54d9941609241ef7c8"
     },
     {
-      "file": "09_ARTWORK_VERIFY_RECEIPT_20261030T050317Z.json",
-      "bytes": 4713,
-      "sha256": "39f8716434beac52b06cdaf92d0653e63bb5fc5ba812a289516bfc886905e77e"
+      "file": "09_ARTWORK_VERIFY_RECEIPT_20261031T0455Z_R8.json",
+      "bytes": 4718,
+      "sha256": "28118e0f90ab12c93a859487ad3bf3126509d15afa745b1476ef33f050a6e733"
     },
     {
       "file": "A5_FLYER_BACK_148x210mm.pdf",
-      "bytes": 234364,
-      "sha256": "a8b6228a56c6da5850e3ca778609e891de2fb7426e06aa84f8514f46ae0e4c63"
+      "bytes": 256766,
+      "sha256": "a071753d1478df1693811a36aae1c049f90140cca6ef91daee0b56e7132451a6"
     },
     {
       "file": "A5_FLYER_BACK_148x210mm.png",
-      "bytes": 199047,
-      "sha256": "4b069c6aea65745e1726db01bd899362c9931f7a3231aeb615c4e6a45be73582"
+      "bytes": 232222,
+      "sha256": "a92de5e5159401983c5a1c41d217778d29dbb7257aaf47876a4374d4dbf41bd3"
     },
     {
       "file": "A5_FLYER_FRONT_148x210mm.pdf",
-      "bytes": 270569,
-      "sha256": "17dd092140b71543e2b86c1979ec7df05c6f98d31a3df55c4fd3d938628b0cfe"
+      "bytes": 270561,
+      "sha256": "0f5d1ad9b349298127771a42033874fb606b40cfc587bc87d8efee75f17c7885"
     },
     {
       "file": "A5_FLYER_FRONT_148x210mm.png",
-      "bytes": 231305,
-      "sha256": "e1408fa56dac9f3c27082086c5f0dc5a0518f39db2839a296f46e456428da1ff"
+      "bytes": 255779,
+      "sha256": "4c899d49bc66676b9ca36e9a221993e1a154037634e260738f4c582bef982d61"
     },
     {
       "file": "A6_CARD_105x148mm.pdf",
-      "bytes": 177711,
-      "sha256": "0145c60d5a050479e5ba26f6d1cdf2996d925170efa2dd9669e040687cf26be1"
+      "bytes": 189009,
+      "sha256": "9913aa8c170b6dd53d2ef465e1a942aeef395603af70b445725069ed0c3302cb"
     },
     {
       "file": "A6_CARD_105x148mm.png",
-      "bytes": 169498,
-      "sha256": "ea64cee510224e17cb756aec3133deafa1738b056124002a6777afd16c380d0a"
+      "bytes": 197809,
+      "sha256": "f43846a8cdb153fe2ceace7f1c1c3f51f1777844040dd93d07ebf8d3144567ea"
     },
     {
       "file": "BACKDROP_2x3m.pdf",
-      "bytes": 4265047,
-      "sha256": "f12da6f87cdb7b08ebc16ed9be1965c92cfd2d963b9041799f3ca4d284ce7bce"
+      "bytes": 4612119,
+      "sha256": "a4833e698db7c0ab7db8cabe4d1fe212b4d65232aae61128f8fb2297f85fc6e0"
     },
     {
       "file": "BACKDROP_2x3m.png",
-      "bytes": 1607607,
-      "sha256": "079b1165bdd624833f3c5914a41e89da4dca133c81ae5f3190ff11d38d0e8b1a"
+      "bytes": 2147612,
+      "sha256": "c28fdf096e4d7868941b61f0af522e369fdc0cd171b4e6dc6f66d70ea1086f23"
+    },
+    {
+      "file": "KTA_LOGO.png",
+      "bytes": 16672,
+      "sha256": "cf2bf3fcdd62b7c1cafde085a7cc312791b017972bc1cdb701e2778665e29452"
     },
     {
       "file": "PULLUP_850x2000mm.pdf",
-      "bytes": 1524064,
-      "sha256": "41fcda835e5060146af644969a91fbd9a329a505cebf9f74caeb60b7c93a6b87"
+      "bytes": 1775845,
+      "sha256": "adfd9e4d2b69dac905d43dedc06dc5284a558ded9fc3fb609aa97c7c8e8656cc"
     },
     {
       "file": "PULLUP_850x2000mm.png",
-      "bytes": 792483,
-      "sha256": "6ee6fbe3c0d17199c0161f3159be93a77ae191616a5a445b9401aa60b9e92f17"
+      "bytes": 1159018,
+      "sha256": "34ee0ac813183bbd23c5d1c4ad215da2a880daa5f5de72ec01ab56cc00fdacd6"
+    },
+    {
+      "file": "SCREEN_WALKTHROUGH_CAPTIONED.mp4",
+      "bytes": 1447322,
+      "sha256": "421912a1ad2f48eafd4f53a48cf8641e66fd6c1a8327abaf3469a2e670be674b"
     },
     {
       "file": "TABLE_BANNER_1x2m.pdf",
-      "bytes": 1804343,
-      "sha256": "8a3e1d08d3eaaa9658da7f8925327a49888ed53f1a227149ed0407f1a9e27de3"
+      "bytes": 2103557,
+      "sha256": "1a3a20bbddfa1df94d1356113cea6498e268663b9e33a073fe6d3b325be67654"
     },
     {
       "file": "TABLE_BANNER_1x2m.png",
-      "bytes": 913626,
-      "sha256": "174f9d52f218d434ce8e8e5b03e5e9aece650f0b0c5fa72ac680a83929fceb57"
+      "bytes": 1344497,
+      "sha256": "d163cad927e621c57c8f5c32b6a9a218723ebaf32e3dce18767f78442469fc07"
     }
   ]
 }
